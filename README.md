@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- YouTube -->
-  <a href="https://www.youtube.com/c/mrxxxgmryt" target="blank">
+  <a href="https://www.youtube.com/@MRXXXGMRYT" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrxxxgmryt" height="30" width="40" />
   </a>
   <!-- Roblox (Light/Dark Switch) -->
