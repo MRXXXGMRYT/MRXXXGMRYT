@@ -11,9 +11,13 @@
   <a href="https://www.youtube.com/c/mrxxxgmryt" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrxxxgmryt" height="30" width="40" />
   </a>
-  <!-- Roblox -->
+  <!-- Roblox (Light/Dark Switch) -->
   <a href="https://www.roblox.com/users/5165236968/profile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/roblox.svg" alt="roblox" height="30" width="30" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/roblox.svg" style="filter: invert(1);" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/roblox.svg" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/roblox.svg" alt="roblox" height="30" width="30" />
+    </picture>
   </a>
   <!-- Discord -->
   <a href="https://discord.com/users/1219841469674688537" target="blank">
