@@ -14,9 +14,9 @@
   <!-- Roblox (Light/Dark Switch) -->
   <a href="https://www.roblox.com/users/5165236968/profile" target="blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/roblox.svg" style="filter: invert(1);" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/roblox.svg" />
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/roblox.svg" alt="roblox" height="30" width="30" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/roblox/white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/roblox/black" />
+      <img align="center" src="https://cdn.simpleicons.org/roblox/black" alt="roblox" height="30" width="30" />
     </picture>
   </a>
   <!-- Discord -->
